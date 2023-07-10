@@ -25,18 +25,17 @@ The project consists of two main components:
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/username/UserManagementSystem.git
-
+    git clone https://github.com/username/UserManagementSystem.git
 
 2. Navigate to the project directory:
-cd Shunyeka
+    cd Shunyeka
 
 3.Install the backend dependencies:
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 4.Install the frontend dependencies:
-  cd frontend
-  npm install
+    cd frontend
+    npm install
 
 5.Start the backend server:
   python manage.py runserver
