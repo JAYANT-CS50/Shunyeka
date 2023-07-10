@@ -1,6 +1,6 @@
-Sure! Here's the markdown code for the provided text:
 
-```markdown
+
+
 # User Management System
 
 This is a User Management System project built with Django and React.
@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd UserManagementSystem
+   cd shunyeka
    ```
 
 3. Install the backend dependencies:
